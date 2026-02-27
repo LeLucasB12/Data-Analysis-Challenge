@@ -14,7 +14,7 @@ team15_sports.csv
 This is the raw dataset used for all analysis tasks. It contains the game information used to calculate win rates, compare home vs away performance, and analyze other variables like season type, scoring, and attendance.
 
 ### Notebook
-team15_analysis.ipynb  
+dasa_2p08_challenge.ipynb 
 This is the main analysis notebook created in Google Colab. It includes data loading, filtering, calculations, graphs, and written explanations of our results.
 
 ### Video
@@ -24,7 +24,7 @@ This is a short video walkthrough explaining the notebook, methods, visuals, and
 ## How to Run
 
 ### Google Colab
-1. Open notebook/team15_analysis.ipynb in Google Colab
+1. Open notebook/dasa_2p08_challenge.ipynb in Google Colab
 2. Upload data/team15_sports.csv to the Colab session (or mount your Google Drive)
 3. Run the cells from top to bottom
 
