@@ -1,6 +1,5 @@
-# Data-Analysis-Challenge
-Git repo for data analysis challenge for DASA-2P08
 # Sports Data Analysis Project (Team 15)
+Git repo for data analysis challenge for DASA-2P08
 
 This repository contains our project submission for analyzing a sports dataset using Python in a Google Colab notebook. It includes the dataset used for the analysis, the notebook with all code and outputs, and a video recording that explains our approach and results.
 
